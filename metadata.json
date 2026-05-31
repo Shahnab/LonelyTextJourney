@@ -1,0 +1,8 @@
+{
+  "name": "Lonely Journey",
+  "description": "A stark, isolated generative landscape evoking Tove Jansson's Moomin illustrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
